@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Tailwind CSS build files
+build/
+dist/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Lock files (optional)
+package-lock.json
+yarn.lock
